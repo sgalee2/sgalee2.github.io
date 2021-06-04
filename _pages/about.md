@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine Learning and Theoretic Computer Science"
+title: "Machine Learning and Theoretical Computer Science"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
