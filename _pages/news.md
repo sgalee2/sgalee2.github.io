@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "News"
-permalink: /News/
+permalink: /news/
 author_profile: true
 ---
+NO NEWS YET
