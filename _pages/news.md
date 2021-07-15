@@ -4,4 +4,5 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-NO NEWS YET
+Don't believe everything you think!
+Til next time.
